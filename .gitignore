@@ -63,7 +63,3 @@ node_modules/
 
 # JIRA plugin
 atlassian-ide-plugin.xml
-
-# Allure Test logs
-allure-results
-cucumber-reports
